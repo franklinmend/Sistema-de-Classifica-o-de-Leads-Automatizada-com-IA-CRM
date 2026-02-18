@@ -1,4 +1,4 @@
-# Sistema-de-Classifica-o-de-Leads-Automatizada-com-IA-CRM
+# Sistema-de-Classificação-de-Leads-Automatizada-com-IA-CRM
 
 # 🚀 Sistema de Inteligência Comercial com IA
 Chatbot com RAG + Classificação Automática de Leads
